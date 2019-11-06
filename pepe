@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="3.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <h1>Curriculum Vitae De Bruce Wayane</h1>
+</head>
+
+<body>
+    <div id="uno">
+    <h2 id="datos">datos personales</h2>
+        <li>nombre completo: Bruce Wayane</li>
+        <li>fecha nacimiento: 1/5/1939</li>
+        <li>lugar nacimiento: Gotham City</li>
+   </div>
+
+   <div id="dos">
+    <h2 id="formacion">formacion academica</h2>
+        <li>Universidad del espantapajaros</li>
+        <li>Instituto de  Dos Caras</li>
+        <li>Escuela primaria del Joker</li>
+    </div>
+    <div id="tres">
+   <h2 id="experiencia">Experiencia Laboral</h2>
+        <li>Es el paro</li>
+        <li>Cazavillanos y demas chusmas</li>
+        <li>Aprendiz de superheroe</li>
+        <div class="clearboth">
+        </div>
+    
+
+
+</body>
+
+</html>
